@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitsingh10880
+- 👋 Hi, I’m Ankit, and I am just a simple programmer trying to make my way across the universe!
 - 👀 I’m interested in Python and Automation frameworks
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on automation-related projects
